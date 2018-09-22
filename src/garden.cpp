@@ -3,7 +3,7 @@
 
 #include <cstdlib>
 
-#include "plant.cpp"
+#include "plant.h"
 
 int main()
 {
